@@ -18,7 +18,7 @@ The `Sustainability_Dashboard.pbix` file contains an interactive dashboard that 
 
 Here’s a snapshot of the dashboard:
 
-![Dashboard Preview](Dashboard.jpg)
+![Dashboard Preview](Dashboard.png)
 
 ## 🧠 Objectives
 
