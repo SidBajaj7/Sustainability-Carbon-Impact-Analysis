@@ -4,7 +4,7 @@ This project presents an independent analysis of sustainability and carbon emiss
 
 ## 📊 Power BI Dashboard
 
-The `Sustainability_Dashboard.pbix` file contains an interactive dashboard that includes:
+The `Sustainability & Carbon Impact Analysis.pbix` file contains an interactive dashboard that includes:
 
 - Emission trends across sectors and time
 - Key performance indicators (KPIs) for carbon impact
@@ -28,21 +28,17 @@ Here’s a snapshot of the dashboard:
 
 ## 📁 Files Included
 
-| File                          | Description                                      |
-|------------------------------|--------------------------------------------------|
-| `Sustainability_Dashboard.pbix` | Power BI file with the complete dashboard       |
-| `Impact_Assessment_Report.pdf`  | Supplementary report summarizing findings       |
-| `Dashboard.jpg`                 | Static preview of the dashboard                 |
+| File                                           | Description                                      |
+|------------------------------------------------|--------------------------------------------------|
+| `Sustainability & Carbon Impact Analysis.pbix` | Power BI file with the complete dashboard       |
+| `Assessment_Report.pdf`                        | Supplementary report summarizing findings       |
+| `Dashboad.png`                                 | Static preview of the dashboard                 |
 
 ## 🛠 Tools Used
 
 - Microsoft Power BI
 - Excel / CSV data preprocessing
 - Basic DAX expressions for calculated fields and measures
-
-## ⚖️ License
-
-This project is open for educational and research purposes. You are free to fork, use, or build upon it with proper credit.
 
 ## ✉️ Contact
 
